@@ -1,0 +1,3 @@
+O usuario deve fazer uma autenticação com:
+--Login
+--Senha
